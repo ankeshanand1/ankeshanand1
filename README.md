@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankeshanand1
 - 👀 I’m interested in Web Servers and Management
-- 🌱 I’m currently learning DevOPS
-- 💞️ I’m looking to collaborate on Multi-Server Free Video Hosting platform like Youtube
+- 🌱 I’m currently learning PHP & Bash
+- 💞️ I’m looking to collaborate on Open-Source Hosting Control Panel
 - 📫 How to reach me: ankesh@cloudmate.in
 
 <!---
