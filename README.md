@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankeshanand1
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python & DevOps
-- 💞️ I’m looking to collaborate on any Open-Source Projects
+- 👀 I’m interested in AlmaLinux
+- 🌱 I’m currently learning everything there is to learn in Tech
+- 💞️ I’m looking to collaborate on any Open-Source Stuff
 - 📫 How to reach me: contact@ankeshanand.me & ankesh@cloudmate.in
 
 <!---
